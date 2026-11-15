@@ -1,4 +1,8 @@
-<img width="2048" height="1456" alt="1000187147" src="https://github.com/user-attachments/assets/b9bf55eb-2196-40cc-94aa-4307469ad733" />
+<img width="2048" height="1690" alt="1000207039" src="https://github.com/user-attachments/assets/9b53a412-8b95-4f1b-83bc-363638658ac1" />
+
+
+
+
 
 
 
@@ -10,7 +14,7 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=strvbykimi&label=%E0%AD%A8%E0%AD%A7+BLESSES+%E0%AD%A8%E0%AD%A7&color=EDADEE&style=flat">  ૮꒰˶ᵔ ᗜ ᵔ˶꒱ა 
+<img src="https://komarev.com/ghpvc/?username=strvbykimi&label=%E0%AD%A8%E0%AD%A7+BLESSES+%E0%AD%A8%E0%AD%A7&color=F0ECEC&style=flat">  ૮꒰˶ᵔ ᗜ ᵔ˶꒱ა 
 [rentry](https://rentry.co/kimsc) <img width="20" height="20" alt="1000184297" src="https://github.com/user-attachments/assets/e54f1fb3-c606-40e2-ab9e-1d7c5c7d74c2" />
 
 
@@ -20,15 +24,9 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1000&color=FCE5DB&center=true&width=435&lines=I've+made+peace+)](https://git.io/typing-svg)
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1000&color=E8DAE7&center=true&width=435&lines=with+the+fact+that)](https://git.io/typing-svg)
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1000&color=EDADEE&center=true&width=435&lines=i'm+a+lowly,+stupid,)](https://git.io/typing-svg)
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1000&color=AE70CD&center=true&width=435&lines=insignificant+human..)](https://git.io/typing-svg)
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1000&color=995EC1&center=true&width=435&lines=who+can't+do+anything+right.)](https://git.io/typing-svg)
+<img width="2048" height="562" alt="1000207032" src="https://github.com/user-attachments/assets/dfaf99ef-9268-44b8-a622-31fe3a9937ad" />
 
-<img width="1959" height="1231" alt="1000187160" src="https://github.com/user-attachments/assets/6c24cc21-19de-4080-8982-4ff79147e707" />
 
-<img width="2048" height="465" alt="1000187148" src="https://github.com/user-attachments/assets/59997cdc-7d84-43b7-802c-b9e27354bcae" />
 
 
 
@@ -44,7 +42,7 @@
   <a href="https://guns.lol/yurisoneandonly">no ♡</a>
 </p>
 
-<img width="2048" height="386" alt="1000184036" src="https://github.com/user-attachments/assets/d2fbc369-9dac-47eb-9bdb-b4a39d84ba2b" />
+
 
 
 
@@ -52,13 +50,14 @@
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31u5lnip3jjbu4acxipaxjnb23bm&cover_image=true&theme=novatorem&show_offline=true&background_color=E8DAE7&interchange=false&profanity=false&hide_remaster=false&bar_color=E8DAE7&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31u5lnip3jjbu4acxipaxjnb23bm&cover_image=true&theme=novatorem&show_offline=true&background_color=CBA2B3&interchange=false&profanity=false&hide_remaster=false&bar_color=F0ECEC&bar_color_cover=false">
   </a>
 </p>
 
 <p align="center">
 
-<img width="2048" height="300" alt="1000184037" src="https://github.com/user-attachments/assets/e94a4691-97e6-4dc2-b372-131e7046e632" />
+<img width="2048" height="993" alt="1000207042" src="https://github.com/user-attachments/assets/a64dda46-c3d9-4e8d-846f-842e06620c58" />
+
 
 
 
@@ -83,7 +82,7 @@ href="https://guns.lol/jiraiki">guns.lol</a>
 
 <p align="center">
 
-<img width="2048" height="1456" alt="1000187161" src="https://github.com/user-attachments/assets/decf4149-4811-4b46-85b9-7f9f3c6c6786" />
+
 
 
 
